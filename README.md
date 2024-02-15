@@ -17,7 +17,7 @@ Welcome to my profile!😄😄 I'm all about building websites. I know my way ar
 
 I’m currently learning.....React! 🚀 Can't wait to explore this exciting technology and see what awesome things I can create with it. Let's embark on this journey of discovery together! 🌟
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -25,3 +25,4 @@ I’m currently learning.....React! 🚀 Can't wait to explore this exciting tec
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+-->
