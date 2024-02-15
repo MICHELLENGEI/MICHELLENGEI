@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./michellengei.png)
 <!--
 **MICHELLENGEI/MICHELLENGEI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
