@@ -46,11 +46,11 @@ I’m currently learning.....React! 🚀 Can't wait to explore this exciting tec
 
 <h3 align="center">My Github stats </h3>
 
-<a href="https://github.com/MICHELLENGEI/github-readme-stats">
+<a align="center"  href="https://github.com/MICHELLENGEI/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MICHELLENGEI&show_icons=true&theme=slateorange&bg_color=00000000" />
 </a>
 
-<a href="https://github.com/MICHELLENGEI/convoychat">
+<a align="center" href="https://github.com/MICHELLENGEI/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MICHELLENGEI&layout=compact&langs_count=8&card_width=320&theme=slateorange&bg_color=00000000" />
 </a>
 
